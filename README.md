@@ -1,6 +1,6 @@
 # CloudEndure API Documentation
 
-![diagram.png]()
+![diagram.png](diagram.png)
 
 ## Authentication
 ```
