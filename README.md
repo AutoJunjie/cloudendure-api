@@ -1,6 +1,6 @@
 # CloudEndure API Documentation
 
-![Uploading image.png…]()
+![digram.png…]()
 
 ## Authentication
 ```
