@@ -1,5 +1,7 @@
 # CloudEndure API Documentation
 
+![Uploading image.png…]()
+
 ## Authentication
 ```
 POST /api/latest/login
